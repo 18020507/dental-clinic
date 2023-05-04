@@ -1,8 +1,15 @@
 <template>
   <div class="container">
     <div class="logo">
-      <b>Review Nha Khoa</b>
-      <input type="text" placeholder="Tìm nha khoa" />
+      <img
+        src="../assets/download-removebg-preview.png"
+        width="50px"
+        height="50px"
+      />
+      <div class="logo-title">
+        <b>Review Nha Khoa</b>
+        <input type="text" placeholder="Tìm nha khoa" />
+      </div>
     </div>
     <div class="content">
       <img class="nhakhoaphale" src="../assets/nhakhoaphale-logo.png" />
@@ -24,7 +31,7 @@ export default defineComponent({});
 .container {
   display: flex;
   flex-direction: row;
-  background-color: yellow;
+  background-color: #f7f747;
   height: 50px;
   justify-content: space-between;
 }
@@ -61,6 +68,8 @@ export default defineComponent({});
 }
 
 .logo {
+  display: flex;
+  flex-direction: row;
   margin-left: 30px;
   margin-top: auto;
   margin-bottom: auto;
@@ -69,6 +78,12 @@ export default defineComponent({});
 .logo b {
   font-size: 20px;
   font-family: Comic Sans MS;
+  margin-top: 10px;
+}
+
+.logo-title {
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 input {
