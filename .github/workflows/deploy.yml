@@ -22,9 +22,10 @@ jobs:
         NODE_ENV: production
     - name: Push
       uses: s0/git-publish-subdir-action@develop
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
       env:
           REPO: self
           BRANCH: build
           FOLDER: dist
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MESSAGE: "Build: ({sha}) {msg}"
