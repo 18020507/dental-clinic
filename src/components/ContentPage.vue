@@ -130,9 +130,6 @@
         <button class="button-road-footer">Chỉ đường</button>
         <button class="button-call-footer">Gọi điện</button>
         <img src="../assets/nhakhoa24h_1.jpg" />
-        <img src="../assets/nhakhoa24h_2.jpg" />
-        <img src="../assets/nhakhoa24h_3.jpg" />
-        <img src="../assets/nhakhoa24h_4.jpg" />
         <p>Nha Khoa 24H</p>
       </div>
     </div>
@@ -280,15 +277,12 @@
         <button class="button-road-footer">Chỉ đường</button>
         <button class="button-call-footer">Gọi điện</button>
         <img src="../assets/nhakhoahuunghi_1.jpg" />
-        <img src="../assets/nhakhoahuunghi_2.jpg" />
-        <img src="../assets/nhakhoahuunghi_3.jpg" />
-        <img src="../assets/nhakhoahuunghi_4.jpg" />
         <p>Nha Khoa Hữu Nghị</p>
       </div>
     </div>
     <div class="footer">
       <p>
-        Trên đây là những nha khoa uy tín tại Hòa Bình mà toplist muốn giới
+        Trên đây là những nha khoa uy tín tại Hòa Bình mà chúng mình muốn giới
         thiệu đến các bạn. Nếu các bạn đang gặp vấn đề về răng miệng, muốn thăm
         khám thì có thể tham khảo những nha khoa trên nhé!
       </p>
