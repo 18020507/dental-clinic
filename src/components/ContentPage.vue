@@ -16,8 +16,15 @@
         <div class="title">
           <div class="clinic-name">Nha khoa Pha Lê cơ sở Hòa Bình</div>
           <div class="list-button">
-            <button class="button-road">Chỉ đường</button>
-            <button class="button-call">Gọi điện</button>
+            <a
+              href="https://www.google.com/maps/place/Nha+khoa+Pha+L%C3%AA+Th%C3%A0nh+ph%E1%BB%91+H%C3%B2a+B%C3%ACnh/@20.8198044,105.3438117,17z/data=!3m1!4b1!4m6!3m5!1s0x31346bb1ac5ad381:0x3d27aaa1fa2f0598!8m2!3d20.8198045!4d105.3486826!16s%2Fg%2F11rjj719pl?hl=vi-VN"
+              target="_blank"
+            >
+              <button class="button-road">Chỉ đường</button>
+            </a>
+            <a href="tel:0865069989">
+              <button class="button-call">Gọi điện</button>
+            </a>
           </div>
         </div>
       </div>
@@ -76,8 +83,16 @@
         </p>
       </div>
       <div class="content-footer">
-        <button class="button-road-footer">Chỉ đường</button>
-        <button class="button-call-footer">Gọi điện</button>
+        <a
+          href="https://www.google.com/maps/place/Nha+khoa+Pha+L%C3%AA+Th%C3%A0nh+ph%E1%BB%91+H%C3%B2a+B%C3%ACnh/@20.8198044,105.3438117,17z/data=!3m1!4b1!4m6!3m5!1s0x31346bb1ac5ad381:0x3d27aaa1fa2f0598!8m2!3d20.8198045!4d105.3486826!16s%2Fg%2F11rjj719pl?hl=vi-VN"
+          target="_blank"
+        >
+          <button class="button-road-footer">Chỉ đường</button>
+        </a>
+        <a href="tel:0865069989">
+          <button class="button-call-footer">Gọi điện</button>
+        </a>
+
         <img
           src="../assets/nhakhoaphale.jpg"
           alt="Nha Khoa Pha Lê cơ sở Hòa Bình"
@@ -91,8 +106,15 @@
         <div class="title">
           <div class="clinic-name">Nha khoa 24H</div>
           <div class="list-button">
-            <button class="button-road">Chỉ đường</button>
-            <button class="button-call">Gọi điện</button>
+            <a
+              href="https://www.google.com/maps/place/Nha+Khoa+24H+TP.H%C3%B2a+B%C3%ACnh/@20.8176304,105.3340066,17z/data=!3m1!4b1!4m6!3m5!1s0x31346b0b5452af67:0x301d1cf6fb222a85!8m2!3d20.8176304!4d105.3365815!16s%2Fg%2F11gglt6xjq?hl=vi-VN"
+              target="_blank"
+            >
+              <button class="button-road">Chỉ đường</button>
+            </a>
+            <a href="tel:0962300374">
+              <button class="button-call">Gọi điện</button>
+            </a>
           </div>
         </div>
       </div>
@@ -127,8 +149,16 @@
         </p>
       </div>
       <div class="content-footer">
-        <button class="button-road-footer">Chỉ đường</button>
-        <button class="button-call-footer">Gọi điện</button>
+        <a
+          href="https://www.google.com/maps/place/Nha+Khoa+24H+TP.H%C3%B2a+B%C3%ACnh/@20.8176304,105.3340066,17z/data=!3m1!4b1!4m6!3m5!1s0x31346b0b5452af67:0x301d1cf6fb222a85!8m2!3d20.8176304!4d105.3365815!16s%2Fg%2F11gglt6xjq?hl=vi-VN"
+          target="_blank"
+        >
+          <button class="button-road-footer">Chỉ đường</button>
+        </a>
+        <a href="tel:0962300374">
+          <button class="button-call-footer">Gọi điện</button>
+        </a>
+
         <img src="../assets/nhakhoa24h_1.jpg" />
         <p>Nha Khoa 24H</p>
       </div>
@@ -139,8 +169,15 @@
         <div class="title">
           <div class="clinic-name">Nha khoa Việt</div>
           <div class="list-button">
-            <button class="button-road">Chỉ đường</button>
-            <button class="button-call">Gọi điện</button>
+            <a
+              href="https://www.google.com/maps/search/Nha+khoa+Vi%E1%BB%87t+1,+t%E1%BB%95+1A,+%C4%91%C6%B0%E1%BB%9Dng+Tr%C6%B0%C6%A1ng+H%C3%A1n+Si%C3%AAu,+ph%C6%B0%E1%BB%9Dng+T%C3%A2n+Th%E1%BB%8Bnh,+TP+H%C3%B2a+B%C3%ACnh,+H%C3%B2a+B%C3%ACnh/@20.828061,105.3370139,17z/data=!3m1!4b1?hl=vi-VN"
+              target="_blank"
+            >
+              <button class="button-road">Chỉ đường</button>
+            </a>
+            <a href="tel:0389934298">
+              <button class="button-call">Gọi điện</button>
+            </a>
           </div>
         </div>
       </div>
@@ -173,8 +210,16 @@
         </p>
       </div>
       <div class="content-footer">
-        <button class="button-road-footer">Chỉ đường</button>
-        <button class="button-call-footer">Gọi điện</button>
+        <a
+          href="https://www.google.com/maps/search/Nha+khoa+Vi%E1%BB%87t+1,+t%E1%BB%95+1A,+%C4%91%C6%B0%E1%BB%9Dng+Tr%C6%B0%C6%A1ng+H%C3%A1n+Si%C3%AAu,+ph%C6%B0%E1%BB%9Dng+T%C3%A2n+Th%E1%BB%8Bnh,+TP+H%C3%B2a+B%C3%ACnh,+H%C3%B2a+B%C3%ACnh/@20.828061,105.3370139,17z/data=!3m1!4b1?hl=vi-VN"
+          target="_blank"
+        >
+          <button class="button-road-footer">Chỉ đường</button>
+        </a>
+        <a href="tel:0389934298">
+          <button class="button-call-footer">Gọi điện</button>
+        </a>
+
         <img src="../assets/nhakhoaviet.jpg" />
         <p>Nha Khoa Việt</p>
       </div>
@@ -185,8 +230,15 @@
         <div class="title">
           <div class="clinic-name">Nha khoa thẩm mỹ Vũ Kế</div>
           <div class="list-button">
-            <button class="button-road">Chỉ đường</button>
-            <button class="button-call">Gọi điện</button>
+            <a
+              href="https://www.google.com/maps/place/Nha+Khoa+V%C5%A9+K%E1%BA%BF/@20.8179174,105.3324884,17z/data=!3m1!4b1!4m6!3m5!1s0x31346b0b5a6c1df3:0x84c910210abbda18!8m2!3d20.8179175!4d105.3373593!16s%2Fg%2F12vszrgqy?hl=vi-VN"
+              target="_blank"
+            >
+              <button class="button-road">Chỉ đường</button>
+            </a>
+            <a href="tel:0902285929">
+              <button class="button-call">Gọi điện</button>
+            </a>
           </div>
         </div>
       </div>
@@ -199,17 +251,17 @@
           răng implant, chỉnh nha, cạo vôi, và nhiều dịch vụ khác.
         </p>
         <p>
-          Một trong những điểm đáng chú ý của nha khoa Vuke đó là các thiết bị
+          Một trong những điểm đáng chú ý của nha khoa Vũ Kế đó là các thiết bị
           và trang thiết bị y tế hiện đại, được nhập khẩu từ các nước có tiêu
           chuẩn y tế cao như Mỹ, Đức, và Hàn Quốc. Điều này đảm bảo rằng các bác
-          sĩ và nhân viên y tế của nha khoa Vuke sẽ luôn sử dụng các công nghệ
+          sĩ và nhân viên y tế của nha khoa Vũ Kế sẽ luôn sử dụng các công nghệ
           tiên tiến nhất để đảm bảo an toàn và chất lượng dịch vụ cho khách
           hàng.
         </p>
         <p>
-          Ngoài ra, nha khoa Vuke cũng tập trung vào việc xây dựng mối quan hệ
+          Ngoài ra, nha khoa Vũ Kế cũng tập trung vào việc xây dựng mối quan hệ
           tốt đẹp với khách hàng. Với mục tiêu mang đến sự thoải mái và tin
-          tưởng cho khách hàng, nha khoa Vuke luôn cố gắng để tạo ra một môi
+          tưởng cho khách hàng, nha khoa Vũ Kế luôn cố gắng để tạo ra một môi
           trường thân thiện và chuyên nghiệp, cùng với đội ngũ nhân viên tận tâm
           và chu đáo.
         </p>
@@ -227,8 +279,16 @@
         </p>
       </div>
       <div class="content-footer">
-        <button class="button-road-footer">Chỉ đường</button>
-        <button class="button-call-footer">Gọi điện</button>
+        <a
+          href="https://www.google.com/maps/place/Nha+Khoa+V%C5%A9+K%E1%BA%BF/@20.8179174,105.3324884,17z/data=!3m1!4b1!4m6!3m5!1s0x31346b0b5a6c1df3:0x84c910210abbda18!8m2!3d20.8179175!4d105.3373593!16s%2Fg%2F12vszrgqy?hl=vi-VN"
+          target="_blank"
+        >
+          <button class="button-road-footer">Chỉ đường</button>
+        </a>
+        <a href="tel:0902285929">
+          <button class="button-call-footer">Gọi điện</button>
+        </a>
+
         <img src="../assets/nhakhoavuke_2.jpg" />
         <p>Nha Khoa Vũ Kế</p>
       </div>
@@ -239,8 +299,15 @@
         <div class="title">
           <div class="clinic-name">Nha khoa Hữu Nghị</div>
           <div class="list-button">
-            <button class="button-road">Chỉ đường</button>
-            <button class="button-call">Gọi điện</button>
+            <a
+              href="https://www.google.com/maps/place/NHA+KHOA+H%E1%BB%AEU+NGH%E1%BB%8A+HO%C3%80+B%C3%8CNH/@20.8351923,105.3350477,17z/data=!3m1!4b1!4m6!3m5!1s0x31346b312edfc693:0x9e2bcf1f7d56a460!8m2!3d20.8351924!4d105.3399186!16s%2Fg%2F11p13rcfk1?hl=vi-VN"
+              target="_blank"
+            >
+              <button class="button-road">Chỉ đường</button>
+            </a>
+            <a href="tel:0943777588">
+              <button class="button-call">Gọi điện</button>
+            </a>
           </div>
         </div>
       </div>
@@ -274,8 +341,16 @@
         </p>
       </div>
       <div class="content-footer">
-        <button class="button-road-footer">Chỉ đường</button>
-        <button class="button-call-footer">Gọi điện</button>
+        <a
+          href="https://www.google.com/maps/place/NHA+KHOA+H%E1%BB%AEU+NGH%E1%BB%8A+HO%C3%80+B%C3%8CNH/@20.8351923,105.3350477,17z/data=!3m1!4b1!4m6!3m5!1s0x31346b312edfc693:0x9e2bcf1f7d56a460!8m2!3d20.8351924!4d105.3399186!16s%2Fg%2F11p13rcfk1?hl=vi-VN"
+          target="_blank"
+        >
+          <button class="button-road-footer">Chỉ đường</button>
+        </a>
+        <a href="tel:0943777588">
+          <button class="button-call-footer">Gọi điện</button>
+        </a>
+
         <img src="../assets/nhakhoahuunghi_1.jpg" />
         <p>Nha Khoa Hữu Nghị</p>
       </div>
