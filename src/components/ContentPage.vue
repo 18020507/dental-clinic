@@ -46,16 +46,17 @@
           - Máy cấy ghép implant <br />
           - Máy nhổ răng piezotome <br />
           - Máy lazer <br />
+          - Máy điều trị tủy <br />
         </p>
         <p>
-          Nha khoa Pha Lê tại cơ sở Hòa Bình được trang có đội ngũ bác sĩ có
-          chuyên môn cao, trong đó bác sĩ chuyên khoa Răng hàm mặt Phan Thanh
-          Huyền chịu trách nhiệm mỗi năm đem lại nụ cười cho hàng trăm khách
-          hàng. Nha khoa cam kết cung cấp dịch vụ nha khoa chất lượng và uy tín
-          nhất cho khách hàng. Cơ sở Hòa Bình có 5 ghế máy hiện đại và phòng
-          điều trị riêng biệt, giúp khách hàng thoải mái và tối ưu nhất trong
-          quá trình điều trị, quy trình vô khuẩn theo tiêu chuẩn quốc tế đảm bảo
-          an toàn tuyệt đối cho khách hàng.
+          Nha khoa Pha Lê tại cơ sở Hòa Bình có đội ngũ bác sĩ có chuyên môn
+          cao, trong đó bác sĩ chuyên khoa Răng hàm mặt Phan Thanh Huyền chịu
+          trách nhiệm mỗi năm đem lại nụ cười cho hàng trăm khách hàng. Nha khoa
+          cam kết cung cấp dịch vụ nha khoa chất lượng và uy tín nhất cho khách
+          hàng. Cơ sở Hòa Bình có 5 ghế máy hiện đại và phòng điều trị riêng
+          biệt, giúp khách hàng thoải mái và tối ưu nhất trong quá trình điều
+          trị, quy trình vô khuẩn theo tiêu chuẩn quốc tế đảm bảo an toàn tuyệt
+          đối cho khách hàng.
         </p>
         <p>
           Các dịch vụ tại Nha khoa Pha Lê Hòa Bình bao gồm các phương pháp điều
