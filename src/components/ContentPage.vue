@@ -49,21 +49,38 @@
           - Máy điều trị tủy <br />
         </p>
         <p>
-          Nha khoa Pha Lê tại cơ sở Hòa Bình có đội ngũ bác sĩ có chuyên môn
-          cao, trong đó bác sĩ chuyên khoa Răng hàm mặt Phan Thanh Huyền chịu
-          trách nhiệm mỗi năm đem lại nụ cười cho hàng trăm khách hàng. Nha khoa
+          Nha khoa Pha Lê là một trong những đơn vị hàng đầu trong lĩnh vực chăm
+          sóc nha khoa tại Việt Nam, với hơn 15 năm kinh nghiệm cung cấp các
+          dịch vụ chất lượng cao đáp ứng nhu cầu đa dạng của khách hàng ở nhiều
+          tỉnh thành trên toàn quốc, bao gồm Hà Nội, Hòa Bình, Thái Bình, Nam
+          Định, ... Với sứ mệnh kiến tạo nụ cười, hệ thống Nha khoa Pha Lê không
+          ngừng phát triển, nâng cao chất lượng dịch vụ, chuyên môn bác sĩ và
+          đầu tư hệ thống máy móc, trang thiết bị y tế.
+        </p>
+        <p>
+          Nha khoa Pha Lê tại cơ sở Hòa Bình được trang bị đầy đủ trang thiết bị
+          hiện đại và có đội ngũ bác sĩ có chuyên môn cao, trong đó bác sĩ
+          chuyên khoa Răng hàm mặt Phan Thanh Huyền chịu trách nhiệm. Nha khoa
           cam kết cung cấp dịch vụ nha khoa chất lượng và uy tín nhất cho khách
-          hàng. Cơ sở Hòa Bình có 5 ghế máy hiện đại và phòng điều trị riêng
+          hàng. Cơ sở Hòa Bình có 5 ghế máy hiện đại và phòng làm việc riêng
           biệt, giúp khách hàng thoải mái và tối ưu nhất trong quá trình điều
-          trị, quy trình vô khuẩn theo tiêu chuẩn quốc tế đảm bảo an toàn tuyệt
-          đối cho khách hàng.
+          trị.
+        </p>
+        <p>
+          Cơ sở Nha khoa Pha Lê tại Hòa Bình luôn đặt chất lượng dịch vụ lên
+          hàng đầu và cam kết mang lại trải nghiệm tuyệt vời nhất cho khách
+          hàng. Không gian phòng khám đẳng cấp với phòng nha riêng biệt giúp
+          khách hàng cảm thấy thoải mái và được chăm sóc tận tình nhất. Đội ngũ
+          chuyên gia và bác sĩ có chuyên môn cao, sử dụng thiết bị nha khoa tân
+          tiến nhập khẩu nguyên kiện từ nước ngoài và quy trình vô khuẩn theo
+          tiêu chuẩn quốc tế đảm bảo an toàn tuyệt đối cho khách hàng.
         </p>
         <p>
           Các dịch vụ tại Nha khoa Pha Lê Hòa Bình bao gồm các phương pháp điều
           trị răng sứ thẩm mỹ, chỉnh nha, cấy ghép Implant, nhổ răng khôn, và
-          điều trị các bệnh lý về răng miệng. Hợp đồng chính sách bảo hành minh
-          bạch và đội ngũ chăm sóc khách hàng chuyên nghiệp, nhiệt tình và tâm
-          huyết giúp đảm bảo quyền lợi và sự hài lòng của khách hàng.
+          điều trị các bệnh lý về răng và miệng. Hợp đồng chính sách bảo hành
+          minh bạch và đội ngũ chăm sóc khách hàng chuyên nghiệp, nhiệt tình và
+          tâm huyết giúp đảm bảo quyền lợi và sự hài lòng của khách hàng.
         </p>
         <p>
           Sau một thời gian dài hoạt động và nỗ lực không ngừng của đội ngũ y
@@ -124,6 +141,14 @@
           Nha khoa 24H được thành lập vào năm 2011 và đã phát triển trong suốt
           12 năm để trở thành một trong những trung tâm nha khoa lớn và chất
           lượng ở TP Hòa Bình.
+        </p>
+        <p>
+          Nha khoa 24h cung cấp đa dạng dịch vụ với chất lượng hoàn hảo, bao gồm
+          cả các dịch vụ chăm sóc và điều trị cũng như các dịch vụ chuyên sâu.
+          Toàn bộ quy trình điều trị sẽ được thực hiện bởi đội ngũ bác sĩ giỏi
+          (do bác sĩ Nguyễn Mạnh Hà và Ninh Duy Sơn phụ trách). Điều này mang
+          lại trải nghiệm tốt nhất cho khách hàng, tiết kiệm thời gian và đảm
+          bảo hiệu quả tối đa.
         </p>
         <p>
           Ngoài ra, nha khoa còn sở hữu cơ sở vật chất đẳng cấp, với phòng điều
@@ -195,6 +220,14 @@
           sẽ trực tiếp chăm sóc khách hàng với kinh nghiệm và chuyên môn cao,
           mang lại quy trình diễn ra suôn sẻ, can thiệp chính xác và hiệu quả
           cao.
+        </p>
+        <p>
+          Ngoài ra, Nha khoa Việt Hòa Bình đầu tư vào trang thiết bị hiện đại và
+          sử dụng vật liệu cấy ghép chất lượng cao, mang đến độ bền chắc sau
+          phục hình. Chi phí của nha khoa hợp lý, với đầy đủ dịch vụ chăm sóc
+          răng miệng toàn diện và chế độ chăm sóc khách hàng tận tâm và chuyên
+          nghiệp. Nha khoa Việt Hòa Bình cũng áp dụng quy trình vô trùng theo
+          tiêu chuẩn của Bộ Y tế để đảm bảo an toàn khi can thiệp.
         </p>
         <p class="contact">Thông tin liên hệ:</p>
         <p>
@@ -315,17 +348,33 @@
       <div class="content-body">
         <p>
           Nha khoa Hữu Nghị là một trong những cơ sở nha khoa hàng đầu tại Hoà
-          Bình và khu vực lân cận, với một hệ thống các phòng nha khoa chất
-          lượng cao. Với đội ngũ bác sĩ giàu kinh nghiệm và tay nghề cao, cùng
-          với các dịch vụ nha khoa, thẩm mỹ và răng hàm mặt, khách hàng sẽ được
-          khám và điều trị bởi các chuyên gia trong ngành. Tất cả các chi phí
-          điều trị sẽ được thông báo chi tiết và rõ ràng cho khách hàng trong kế
-          hoạch điều trị. Các khách hàng đều được đội ngũ bác sĩ trực tiếp thăm
-          khám, trong đó có bác sĩ Phạm Trung Thuỷ – một chuyên gia với hơn 20
-          năm kinh nghiệm trong nghề. Bên cạnh đó, mỗi khách hàng sẽ sử dụng một
-          bộ dụng cụ khám mới, đảm bảo an toàn và tiện lợi cho các bệnh nhân. Vì
-          vậy, bạn có thể yên tâm tuyệt đối khi sử dụng dịch vụ tại nha khoa Hữu
-          Nghị.
+          Bình và khu vực lân cận, với một hệ thống các phòng nha khoa đạt chất
+          lượng cao và hiện đại. Với đội ngũ bác sĩ giàu kinh nghiệm và tay nghề
+          cao, đã trải qua nhiều năm hoạt động trong ngành nha khoa, và luôn sẵn
+          sàng cung cấp các dịch vụ chăm sóc răng miệng, thẩm mỹ và răng hàm mặt
+          đáp ứng tốt nhất nhu cầu của khách hàng.
+        </p>
+        <p>
+          Nha khoa Hữu Nghị cam kết đem đến cho khách hàng trải nghiệm khám và
+          điều trị tốt nhất bằng cách sử dụng các phương pháp chuyên môn và
+          thiết bị y tế hiện đại nhất. Mỗi khách hàng sẽ được đội ngũ bác sĩ
+          trực tiếp thăm khám, tư vấn và lên kế hoạch điều trị phù hợp. Nha khoa
+          cam kết tất cả các chi phí điều trị sẽ được thông báo chi tiết và rõ
+          ràng cho khách hàng trong kế hoạch điều trị, tránh các rắc rối không
+          mong muốn trong quá trình điều trị.
+        </p>
+        <p>
+          Với bác sĩ Phạm Trung Thuỷ – một chuyên gia với hơn 20 năm kinh nghiệm
+          trong nghề – trong đội ngũ bác sĩ của nha khoa Hữu Nghị, nha khoa tự
+          tin khách hàng sẽ được khám và điều trị bởi các chuyên gia trong ngành
+          nha khoa. Đặc biệt, để đảm bảo an toàn và tiện lợi cho các bệnh nhân,
+          nha khoa sử dụng các bộ dụng cụ khám mới, được kiểm tra và bảo trì
+          thường xuyên.
+        </p>
+        <p>
+          Với chất lượng dịch vụ và tâm huyết của đội ngũ nhân viên nha khoa Hữu
+          Nghị, khách hàng sẽ cảm thấy hài lòng và yên tâm tuyệt đối khi sử dụng
+          các dịch vụ của chúng tôi.
         </p>
         <p class="contact">Thông tin liên hệ:</p>
         <p>
