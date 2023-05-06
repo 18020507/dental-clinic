@@ -7,7 +7,7 @@
         height="50px"
       />
       <div class="logo-title">
-        <b>Review Nha Khoa</b>
+        <b>Top Nha Khoa Uy Tín</b>
         <input type="text" placeholder="Tìm nha khoa" />
       </div>
     </div>
