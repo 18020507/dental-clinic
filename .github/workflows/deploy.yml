@@ -18,7 +18,6 @@ jobs:
       run: npm run build
       env:
         CI: false
-        PUBLIC_URL: /dental-clinic
         NODE_ENV: production
     - name: Push
       uses: s0/git-publish-subdir-action@develop
