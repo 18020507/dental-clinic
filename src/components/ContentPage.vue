@@ -49,38 +49,21 @@
           - Máy điều trị tủy <br />
         </p>
         <p>
-          Nha khoa Pha Lê là một trong những đơn vị hàng đầu trong lĩnh vực chăm
-          sóc nha khoa tại Việt Nam, với hơn 15 năm kinh nghiệm cung cấp các
-          dịch vụ chất lượng cao đáp ứng nhu cầu đa dạng của khách hàng ở nhiều
-          tỉnh thành trên toàn quốc, bao gồm Hà Nội, Hòa Bình, Thái Bình, Nam
-          Định, ... Với sứ mệnh kiến tạo nụ cười, hệ thống Nha khoa Pha Lê không
-          ngừng phát triển, nâng cao chất lượng dịch vụ, chuyên môn bác sĩ và
-          đầu tư hệ thống máy móc, trang thiết bị y tế.
-        </p>
-        <p>
-          Nha khoa Pha Lê tại cơ sở Hòa Bình được trang bị đầy đủ trang thiết bị
-          hiện đại và có đội ngũ bác sĩ có chuyên môn cao, trong đó bác sĩ
-          chuyên khoa Răng hàm mặt Phan Thanh Huyền chịu trách nhiệm. Nha khoa
+          Nha khoa Pha Lê tại cơ sở Hòa Bình có đội ngũ bác sĩ có chuyên môn
+          cao, trong đó bác sĩ chuyên khoa Răng hàm mặt Phan Thanh Huyền chịu
+          trách nhiệm mỗi năm đem lại nụ cười cho hàng trăm khách hàng. Nha khoa
           cam kết cung cấp dịch vụ nha khoa chất lượng và uy tín nhất cho khách
-          hàng. Cơ sở Hòa Bình có 5 ghế máy hiện đại và phòng làm việc riêng
+          hàng. Cơ sở Hòa Bình có 5 ghế máy hiện đại và phòng điều trị riêng
           biệt, giúp khách hàng thoải mái và tối ưu nhất trong quá trình điều
-          trị.
-        </p>
-        <p>
-          Cơ sở Nha khoa Pha Lê tại Hòa Bình luôn đặt chất lượng dịch vụ lên
-          hàng đầu và cam kết mang lại trải nghiệm tuyệt vời nhất cho khách
-          hàng. Không gian phòng khám đẳng cấp với phòng nha riêng biệt giúp
-          khách hàng cảm thấy thoải mái và được chăm sóc tận tình nhất. Đội ngũ
-          chuyên gia và bác sĩ có chuyên môn cao, sử dụng thiết bị nha khoa tân
-          tiến nhập khẩu nguyên kiện từ nước ngoài và quy trình vô khuẩn theo
-          tiêu chuẩn quốc tế đảm bảo an toàn tuyệt đối cho khách hàng.
+          trị, quy trình vô khuẩn theo tiêu chuẩn quốc tế đảm bảo an toàn tuyệt
+          đối cho khách hàng.
         </p>
         <p>
           Các dịch vụ tại Nha khoa Pha Lê Hòa Bình bao gồm các phương pháp điều
           trị răng sứ thẩm mỹ, chỉnh nha, cấy ghép Implant, nhổ răng khôn, và
-          điều trị các bệnh lý về răng và miệng. Hợp đồng chính sách bảo hành
-          minh bạch và đội ngũ chăm sóc khách hàng chuyên nghiệp, nhiệt tình và
-          tâm huyết giúp đảm bảo quyền lợi và sự hài lòng của khách hàng.
+          điều trị các bệnh lý về răng miệng. Hợp đồng chính sách bảo hành minh
+          bạch và đội ngũ chăm sóc khách hàng chuyên nghiệp, nhiệt tình và tâm
+          huyết giúp đảm bảo quyền lợi và sự hài lòng của khách hàng.
         </p>
         <p>
           Sau một thời gian dài hoạt động và nỗ lực không ngừng của đội ngũ y
